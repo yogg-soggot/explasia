@@ -8,36 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2f95a4da0712d2dc",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Explasia/Explasia - Rule Book.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "Explasia - Rule Book"
-            }
-          },
-          {
-            "id": "3331ac237c825710",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Магическая система/Магическая система.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Магическая система"
-            }
-          },
-          {
             "id": "9210f5fd12955b94",
             "type": "leaf",
             "state": {
@@ -50,9 +20,23 @@
               "icon": "lucide-file",
               "title": "Глава 4. Магия"
             }
+          },
+          {
+            "id": "cc377c017d4b456e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Explasia/Глава 1. Что такое Explasia.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Глава 1. Что такое Explasia"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -125,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Explasia/Explasia - Rule Book.md",
+                "file": "Explasia/Глава 1. Что такое Explasia.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Explasia - Rule Book"
+              "title": "Обратные ссылки для Глава 1. Что такое Explasia"
             }
           },
           {
@@ -199,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,18 +196,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "9210f5fd12955b94",
+  "active": "cc377c017d4b456e",
   "lastOpenFiles": [
-    "Explasia/Глава 3. Правила.md",
+    "github.pub",
+    "github",
     "Explasia/Explasia - Rule Book.md",
-    "PDF/Explasia.pdf",
     "PDF/Explasia - Rule Book.pdf",
     "Магическая система/Магическая система.md",
-    "Магическая система",
-    "Explasia/Глава 1. Пролог.md",
-    "Explasia/Глава 2. Игровые принципы.md",
+    "Explasia/Глава 6. Примеры заклинаний и техник.md",
     "Explasia/Глава 5. Подготовка к игре.md",
     "Explasia/Глава 4. Магия.md",
+    "Explasia/Глава 3. Правила.md",
+    "Explasia/Глава 2. Игровые принципы.md",
+    "Explasia/Глава 1. Что такое Explasia.md",
+    "PDF/Explasia.pdf",
+    "Магическая система",
     "Explasia/Уровень персонажа.md",
     "Explasia/Cоздание персонажа.md",
     "Чарлист чеклист.md",
@@ -242,7 +228,6 @@
     "Explasia.md",
     "Драфты/1. Введение.pdf",
     "Драфты/5. Система таймскипов.pdf",
-    "Драфты/4. Пример боя.pdf",
     "2. Основные игровые принципы/Содержание.md",
     "Untitled.canvas",
     "Welcome.md"
